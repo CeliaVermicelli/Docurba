@@ -3,6 +3,7 @@ ordre: 4
 
 intro : Document de planification dans le domaine de l’eau et des milieux aquatiques, le schéma directerur d'aménagement et de gestion des eaux (SDAGE) constitue au niveau du grand bassin hydrographique un outil de gestion prospective et de cohérence. Il réalise un état des lieux prospectif du bassin, et fixe les objectifs à atteindre pour les masses d'eau, conformément à la directive cadre sur l’eau (DCE). Il liste en outre les orientations fondamentales et un programme de mesures afin d'atteindre les objectifs. Le code de l'urbanisme prévoit que les documents d'urbanisme (SCOT, PLU et cartes communales) soient compatibles ou rendus compatibles avec le SDAGE.
 ---
+### Le SDAGE du bassin Rhône-Méditerranée 2016-2021
 
 Document de planification dans le domaine de l’eau et des milieux aquatiques, le schéma directerur d'aménagement et de gestion des eaux (SDAGE) constitue au niveau du grand bassin hydrographique un outil de gestion prospective et de cohérence. Il réalise un état des lieux prospectif du bassin, et fixe les objectifs à atteindre pour les masses d'eau, conformément à la directive cadre sur l’eau (DCE). Il liste en outre les orientations fondamentales et un programme de mesures afin d'atteindre les objectifs. Le code de l'urbanisme prévoit que les documents d'urbanisme (SCOT, PLU et cartes communales) soient compatibles ou rendus compatibles avec le SDAGE.
 
