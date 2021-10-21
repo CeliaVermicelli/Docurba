@@ -1,6 +1,6 @@
 ---
 ordre: 2
-intro : Le SCoT est l’outil de conception et de mise en œuvre d’une planification stratégique intercommunale, à l’échelle d’un large bassin de vie ou d’une aire urbaine. Les PLU doivent être compatubles avec les SCoT.
+intro : Le Schéma de Cohérence Territorial (SCoT) est l’outil de conception et de mise en œuvre d’une planification stratégique intercommunale, à l’échelle d’un large bassin de vie ou d’une aire urbaine. Les PLU doivent être compatubles avec les SCoT.
 ---
 
 ### Le SCoT de la grande région de Grenoble (GREG)
