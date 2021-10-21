@@ -3,6 +3,8 @@ ordre: 5
 
 intro : Pour mettre en œuvre cette politique rénovée de gestion du risque inondation, l’État français a choisi de s’appuyer sur des actions nationales et territoriales et notamment sur les plans de gestion des risques d’inondation (PGRI), prévus par l’article L. 566-7 du code de l’environnement, élaborés à l’échelle du district hydrographique (échelle d’élaboration des SDAGE). 
 ---
+### Le PGRI du bassin Rhône-Méditerranée
+
 Pour mettre en œuvre cette politique rénovée de gestion du risque inondation, l’État français a choisi de s’appuyer sur des actions nationales et territoriales et notamment sur les plans de gestion des risques d’inondation (PGRI), prévus par l’article [L. 566-7 du code de l’environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031219649), élaborés à l’échelle du district hydrographique (échelle d’élaboration des SDAGE). 
  
 **Le PGRI du bassin Rhône-Méditerranée a été approuvé le 7 décembre 2015 par le Préfet coordonnateur de bassin et publié au journal officiel du 22 décembre 2015. Il sera mis à jour tous les 6 ans.**
