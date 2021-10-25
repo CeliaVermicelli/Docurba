@@ -18,6 +18,7 @@ https://www.georisques.gouv.fr/risques/installations/donnees#/region=84&departem
 - **Transports de matières dangereuses**
 
   - Canalisations
+  
 Une canalisation de transport de matière dangereuse (GRTGaz ) traverse la commune et une autre l’impacte.
 
 L’arrêté préfectoral instaurant des servitudes d'utilité publique prenant en compte la maîtrise des risques autour des canalisations de transport de matières dangereuses a été pris. Il est en fin de liste des servitudes d'utilité publique.
