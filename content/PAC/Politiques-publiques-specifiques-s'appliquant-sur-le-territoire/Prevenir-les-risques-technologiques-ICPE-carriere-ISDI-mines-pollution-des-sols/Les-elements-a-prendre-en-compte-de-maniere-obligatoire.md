@@ -16,13 +16,16 @@ Les installations classées pour la protection de l’environnement (ICPE) sont 
 https://www.georisques.gouv.fr/risques/installations/donnees#/region=84&departement=38
 
 - **Transports de matières dangereuses**
+
   - Canalisations
 Une canalisation de transport de matière dangereuse (GRTGaz ) traverse la commune et une autre l’impacte.
 
 L’arrêté préfectoral instaurant des servitudes d'utilité publique prenant en compte la maîtrise des risques autour des canalisations de transport de matières dangereuses a été pris. Il est en fin de liste des servitudes d'utilité publique.
 
-Vous trouverez également en annexe le courrier de GRTGaz   
+Vous trouverez également en annexe le courrier de GRTGaz
+
   - Itinéraires routiers
+  
 se reporter au chapitre 5.5.3.(?)
 
 - **Ruptures de barrages**
