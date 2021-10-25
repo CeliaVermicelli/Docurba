@@ -1,5 +1,5 @@
 ---
-ordre: 5
+ordre: 4
 ---
 
 #### Les études à mener par la commune
