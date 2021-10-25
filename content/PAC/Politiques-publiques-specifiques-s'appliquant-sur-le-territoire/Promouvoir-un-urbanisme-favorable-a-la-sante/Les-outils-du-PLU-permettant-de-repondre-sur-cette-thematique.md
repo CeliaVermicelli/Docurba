@@ -4,7 +4,7 @@ ordre: 5
 
 #### Les outils du PLU permettant de répondre sur cette thématique
 
-- **Nuisances sonores**
+**- Nuisances sonores**
 
 Le **diagnostic** doit :
 - identifier les contraintes réglementaires en matière de bruit, à prendre en compte obligatoirement (PEB, classement sonore des voies), et faire le bilan des études et cartes de bruit existantes (cf paragraphe précédent) ;
@@ -32,7 +32,7 @@ Le document graphique du règlement peut également faire mention de ces secteur
 Pour plus de précisions techniques sur la prise en compte du bruit dans le PLU, consulter le guide « PLU et Bruit – la boîte à outils de l’aménageur », disponible sur le site du CEREMA.
 http://paysages-territoires-transitions.cerema.fr/guide-plu-bruit-a63.html
 
-- **Qualité de l'air**
+**- Qualité de l'air**
 
 En fonction des enjeux identifiés, l’amélioration de la qualité de l’air passe par :
 - la gestion des déplacements (diminution des obligations de déplacements, offre de transport collectif, développement des itinéraires de déplacements doux et mixité des fonctions, réduction de l’étalement urbain…) ;
@@ -41,6 +41,7 @@ En fonction des enjeux identifiés, l’amélioration de la qualité de l’air 
 Le **rapport de présentation** comporte les éléments de diagnostic en s’appuyant notamment sur les données présentées ci-dessous et décrit les dispositions prises en matières de préservation ou amélioration de la qualité de l’air, notamment dans le volet déplacements et/ou environnement.
 
 L’amélioration de la qualité de l’air peut faire l’objet d’une orientation spécifique dans le **projet d’aménagement et de développement durables** (PADD), notamment pour les communes situées en zones sensibles à la qualité de l’air, ou ayant des « points noirs de la qualité de l’air ».
+
 
 Les dispositions peuvent être retranscrites dans une **orientation d’aménagement et de programmation** (OAP) thématique faisant apparaître les dispositions prises pour améliorer la qualité de l’air et/ou l’exposition de la population à la pollution, et notamment les implantations préférentielles de bâtiments à proximité des axes polluants, les itinéraires doux, les itinéraires de transport collectif,  etc.
 
@@ -57,4 +58,22 @@ Cette mesure pourrait aller jusqu’à des mesures de type :
 - interdire l’implantation dans ces zones d’établissements sensibles, par application des dispositions de l’article R. 151-34 1° au titre de la prévention contre les nuisances ;
 - ne pas augmenter la population dans ces zones, avec par exemple un gel de l’urbanisation de ces zones par application des dispositions de l’article R. 151-31 1° au titre de la prévention contre les nuisances ;
 - imposer des règles d’urbanisme qui visent à limiter l’impact des pollutions sur les occupants (ne pas créer de « rues canyon », privilégier un urbanisme qui favorise la dispersion des polluants, etc).
+
+**- Prévention de la prolifération du moustique tigre**
+
+Au niveau de la gestion des eaux pluviales (**règlement du PLU**): 
+- si le règlement du PLU impose une gestion des eaux pluviales à la parcelle ou au projet => pour des raisons sanitaires (nouveau R 151-49), interdire les dispositions avec stagnation d’eau à l’air libre (système étanche à privilégier ; éviter les noues et fossés humides).
+- si le PLU impose une gestion des eaux pluviales dans un exutoire (réseau ou naturel) => pour des raisons sanitaires (nouveau R 151-49), interdire également les dispositions de « raccordement » avec stagnation d’eau à l’air libre
+
+Au niveau des pentes des toitures (**règlement du PLU**) :
+- si toiture-terrasse autorisée, faire une recommandation sur la bonne conception pour éviter la stagnation des eaux
+- éventuellement, pour des raisons d’hygiène et de protection contre les nuisances (nouveau R. 151-34 1°) imposer une légère pente ...
+- pour les toitures sur plots ou terrasse sur plots, imposer une légère pente aux supports soutenant les plots
+
+Au niveau des interdictions (**règlement du PLU**) : le PLU peut interdire les dépôts de matériaux ou déchets (qui pourraient être le lieu de stagnation d’eau) pour des raisons de salubrité (nouveau R. 151-30).
+
+Eventuellement au niveau des **OAP** :
+Bien que leur contenu soit «à géométrie variable», les OAP en définissant les conditions d’aménagement et d’équipement des zones peuvent conforter la prise en compte des eaux pluviales. Ainsi, les dispositifs pour une gestion collective des eaux pluviales peuvent être relativement définis dès l’élaboration du PLU en intégrant les éléments techniques (dimensionnement sommaire, localisation, etc.) dans les OAP. Des recommandations peuvent être faites au regard de l’enjeu sanitaire de lutte contre le « moustique-tigre ».
+
+
 
