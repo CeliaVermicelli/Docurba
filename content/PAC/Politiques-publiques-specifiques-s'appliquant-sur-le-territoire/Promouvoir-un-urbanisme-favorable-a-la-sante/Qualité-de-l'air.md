@@ -1,7 +1,7 @@
 ---
 ordre : 2
 ---
-### Pollution de l'air
+### Qualité de l'air
 
 **- Pourquoi prendre en compte la qualité de l’air dans le PLU ?**
 
