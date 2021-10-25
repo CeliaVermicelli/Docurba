@@ -60,3 +60,9 @@ Inconstructibilité d'une bande de 10 m de part et d'autre de l'axe de la combe.
 **- Constructibilité en pied de versant :**
 
 En cas de connaissance d'un aléa glissement de terrain ou coulées boueuses dans un versant, inconstructibilité en aval du pied de ce versant d'une bande d'une largeur de 30 m à défaut de diagnostic spécifique précisant cette largeur.
+
+**- Gestion des boisements :**
+
+La forêt et les boisements contribuent à lutter contre l'érosion des sols ; ils peuvent  participer également à la lutte contre d'autres risques naturels (inondations, avalanche, ravinements et crues des torrents, chutes de pierres) ; leur développement et leur pérennité sur le long terme méritent d'être regardés sous cet angle. Pour cela, ainsi qu'en cas d'incendie de forêt, une desserte minimale est nécessaire.
+Il est souhaitable de ce point de vue de classer dans le PLU en zones naturelles et forestières les forêts contribuant à réduire le risque pour des enjeux existants et de veiller à ce que le règlement de ces zones n'empêche pas la réalisation des voiries nécessaires à la gestion de la forêt.
+Par ailleurs, si des besoins de futures voies de desserte pour la défense de l’incendie sont connus au moment de l’élaboration du PLU, il est recommandé que celui-ci les traduise sous forme d’emplacements réservés.
