@@ -4,7 +4,7 @@ ordre: 5
 
 #### Les outils du PLU permettant de répondre sur cette thématique
 
--**Nuisances sonores**
+- **Nuisances sonores**
 
 Le **diagnostic** doit :
 - identifier les contraintes réglementaires en matière de bruit, à prendre en compte obligatoirement (PEB, classement sonore des voies), et faire le bilan des études et cartes de bruit existantes (cf paragraphe précédent) ;
@@ -31,3 +31,30 @@ Le document graphique du règlement peut également faire mention de ces secteur
 
 Pour plus de précisions techniques sur la prise en compte du bruit dans le PLU, consulter le guide « PLU et Bruit – la boîte à outils de l’aménageur », disponible sur le site du CEREMA.
 http://paysages-territoires-transitions.cerema.fr/guide-plu-bruit-a63.html
+
+- **Qualité de l'air**
+
+En fonction des enjeux identifiés, l’amélioration de la qualité de l’air passe par :
+- la gestion des déplacements (diminution des obligations de déplacements, offre de transport collectif, développement des itinéraires de déplacements doux et mixité des fonctions, réduction de l’étalement urbain…) ;
+- la maîtrise des pollutions liées aux divers types de constructions et aux diverses activités
+
+Le **rapport de présentation** comporte les éléments de diagnostic en s’appuyant notamment sur les données présentées ci-dessous et décrit les dispositions prises en matières de préservation ou amélioration de la qualité de l’air, notamment dans le volet déplacements et/ou environnement.
+
+L’amélioration de la qualité de l’air peut faire l’objet d’une orientation spécifique dans le **projet d’aménagement et de développement durables** (PADD), notamment pour les communes situées en zones sensibles à la qualité de l’air, ou ayant des « points noirs de la qualité de l’air ».
+
+Les dispositions peuvent être retranscrites dans une **orientation d’aménagement et de programmation** (OAP) thématique faisant apparaître les dispositions prises pour améliorer la qualité de l’air et/ou l’exposition de la population à la pollution, et notamment les implantations préférentielles de bâtiments à proximité des axes polluants, les itinéraires doux, les itinéraires de transport collectif,  etc.
+
+Le **règlement du PLU** peut :
+- préciser le tracé et les caractéristiques des sentiers piétonniers et itinéraires cyclables, les voies et espaces réservés au transport public (L.151-38)
+- fixer des emplacements réservés pour les infrastructures de déplacements (L.151-41 1°)
+- imposer dans les secteurs proches des transports collectifs une densité minimale (L. 151-26)
+- imposer aux constructions des performances environnementales renforcées (L. 151-21)
+- faire bénéficier d’une majoration du volume constructible les constructions faisant preuve d’exemplarité énergétique ou environnementale ou qui sont à énergie positive (art. R.151-42 du code de l’urbanisme) ;
+
+Lorsque les cartographies de l’exposition de la population à la pollution mettent en évidence des **zones où les normes pour la santé sont dépassées, il est recommandé de prendre en compte cet aspect pour protéger les populations sensibles.** 
+
+Cette mesure pourrait aller jusqu’à des mesures de type :
+- interdire l’implantation dans ces zones d’établissements sensibles, par application des dispositions de l’article R. 151-34 1° au titre de la prévention contre les nuisances ;
+- ne pas augmenter la population dans ces zones, avec par exemple un gel de l’urbanisation de ces zones par application des dispositions de l’article R. 151-31 1° au titre de la prévention contre les nuisances ;
+- imposer des règles d’urbanisme qui visent à limiter l’impact des pollutions sur les occupants (ne pas créer de « rues canyon », privilégier un urbanisme qui favorise la dispersion des polluants, etc).
+
