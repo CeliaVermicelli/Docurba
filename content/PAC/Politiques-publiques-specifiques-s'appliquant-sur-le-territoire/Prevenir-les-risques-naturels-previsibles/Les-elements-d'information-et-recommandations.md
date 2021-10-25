@@ -2,7 +2,7 @@
 ordre: 2
 ---
 
-#### Les éléments d’information
+#### Les éléments d’information et recommandations
 
 **Documents ne valant pas servitude d'utilité publique**
 
