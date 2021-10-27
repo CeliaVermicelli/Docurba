@@ -12,10 +12,18 @@ export default {
       deep: true
     }).fetch()
 
-    console.log(PAC.length)
+    // .where({
+    //   path: {
+    //     $not: {
+    //       $regex: /Politiques-publiques-specifiques-s'appliquant-sur-le-territoire/
+    //     }
+    //   }
+    // }).fetch()
+
+    // console.log(PAC.length)
 
     return {
-      PAC
+      PAC: PAC.filter(s => !s.path.includes('olitiques-publiques-specifiques'))
     }
   }
 }
