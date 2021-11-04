@@ -1,6 +1,6 @@
 ---
 titre: Schémas de gestion des eaux (SDAGE) et directive cadre sur l’eau (DCE)
-ordre : 2
+ordre : 1
 ---
 ### Schémas de gestion des eaux (SDAGE) et directive cadre sur l’eau (DCE)
 
