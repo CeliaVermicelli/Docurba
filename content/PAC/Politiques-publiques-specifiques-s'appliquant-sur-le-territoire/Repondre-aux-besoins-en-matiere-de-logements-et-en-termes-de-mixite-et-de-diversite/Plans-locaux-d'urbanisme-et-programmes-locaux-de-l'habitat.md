@@ -1,6 +1,5 @@
-
 ---
-titre : Plans locaux d'urbanisme et programmes locaux de l'habitat
+titre: Plans locaux d'urbanisme et programmes locaux de l'habitat
 ordre: 2
 ---
 
