@@ -98,18 +98,18 @@ potable.**
 
 **Études pouvant être consultées**
 
-- Les cartes de localisation des captages d’eau potable et leurs arrêtés de déclaration
-d’utilité publique (DUP) sont disponibles sur le site internet de l’Agence Régionale de la Santé
+- Les **cartes de localisation des captages d’eau potable et leurs arrêtés de déclaration
+d’utilité publique (DUP)** sont disponibles sur le site internet de l’Agence Régionale de la Santé
 (ARS) https://www.auvergne-rhone-alpes.ars.sante.fr/eau-potable-6 . En l’absence de DUP, l’étude
 environnementale préalable et le rapport de l’hydrogéologue agréé peuvent être consultés
 directement auprès du maître d’ouvrage (mairie ou syndicat d’eau) ou de l'ARS
-- Les fiches de synthèse annuelles réalisées par l’ARS sur la qualité des eaux par commune
+- **Les fiches de synthèse annuelles réalisées par l’ARS sur la qualité des eaux** par commune
 sont également consultables sur ce même site internet :
 https://carto.atlasante.fr/1/ars_metropole_udi_infofactures.map.
 - Rapports annuels sur le prix et la qualité des services publics d’eau potable et d’assainissement en
 application du L. 2224-5 du code général des collectivités territoriales, et notamment les
 indicateurs définis dans l’arrêté du 2 mai 2007 relatif à ces rapports ;
-- Rapport annuel au maire sur la qualité des eaux destinées à la consommation humaine, réalisé
+- **Rapport annuel au maire sur la qualité des eaux** destinées à la consommation humaine, réalisé
 par l'ARS ;
-- Aires d'alimentation des captages prioritaires (et programmes d'actions agricoles) :
+- **Aires d'alimentation des captages prioritaires** (et programmes d'actions agricoles) :
 http://www.rhone.gouv.fr/Politiques-publiques/Environnement-developpement-durable-risquesnaturels-et-technologiques/Eau/Ressources-en-eau/Protection-des-aires-d-alimentation-decaptages-contre-les-pollutions-diffuses# ;
