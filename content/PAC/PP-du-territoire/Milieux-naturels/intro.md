@@ -1,9 +1,9 @@
 ---
-titre: Préserver les milieux naturels, la biodiverisité et les continuités écologiques
-ordre: 4
+titre: Préserver les milieux naturels, la biodiversité et les continuités écologiques
+ordre: 1
 ---
 
-### Préserver les milieux naturels, la biodiverisité et les continuités écologiques
+### Préserver les milieux naturels, la biodiversité et les continuités écologiques
 
 Protéger les espaces naturels et les paysages nécessite une préservation des écosystèmes, notamment la
 protection des grandes infrastructures naturelles. Ce principe est directement relié au principe de
@@ -18,6 +18,7 @@ risques de pollutions est donc essentielle et doit figurer notamment au rapport 
 l’environnement ;
 - Espaces naturels sensibles : articles L. 113-8 à L. 113-14 et R. 113-15 à R. 113-18 du code de
 l’urbanisme ;
+
 - Directives de protection et de mise en valeur des paysages : articles L. 350-1 et R. 350-1 à R. 350-
 16 du code de l’environnement ;
 - Espèces protégées : articles L. 411-1, L. 411-2 et R. 411-1 à R. 411-14 du code de l’environnement
