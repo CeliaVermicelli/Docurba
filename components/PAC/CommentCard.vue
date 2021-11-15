@@ -5,8 +5,9 @@
     </v-card-title>
     <v-card-text>
       <v-row class="comments-row">
-        <v-col v-for="(comment, i) in section.comments" :key="i" cols="12">
+        <v-col v-for="(comment, i) in comments" :key="i" cols="12">
           <v-textarea
+            v-if="comment"
             :value="comment.text"
             readonly
             filled
@@ -49,6 +50,11 @@ export default {
       newComment: this.defaultComment()
     }
   },
+  computed: {
+    comments () {
+      return this.section.comments || []
+    }
+  },
   methods: {
     defaultComment () {
       return {
@@ -63,7 +69,7 @@ export default {
     getCommentDate (comment) {
       return dayjs(comment.timestamp).format('DD/MM/YY hh:mm')
     },
-    async saveNewComment () {
+    saveNewComment () {
       const savedSection = {
         comments: this.section.comments || [],
         path: this.section.path
@@ -72,9 +78,8 @@ export default {
       this.newComment.timestamp = Date.now()
       savedSection.comments.push(this.newComment)
 
-      await this.savePacItem(savedSection)
-
-      this.newComment = this.defaultComment
+      this.savePacItem(savedSection)
+      this.newComment = this.defaultComment()
     }
   }
 }
