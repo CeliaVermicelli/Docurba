@@ -19,6 +19,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    { src: '~/plugins/composition.js' },
     { src: '~/plugins/supabase.js' },
     { src: '~/plugins/user.js' }
   ],
@@ -42,6 +43,10 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content'
+  ],
+
+  serverMiddleware: [
+    { path: '/api/communes', handler: '~/server-middleware/communes.js' }
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

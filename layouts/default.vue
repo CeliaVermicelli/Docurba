@@ -1,35 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar
-      fixed
-      app
-      color="white"
-    >
-      <nuxt-link to="/" class="text-decoration-none g800--text">
-        <v-toolbar-title>
-          Docurba
-        </v-toolbar-title>
-      </nuxt-link>
-      <v-spacer />
-      <!-- This client only could be removed with proper user management server side -->
-      <client-only>
-        <!-- <template v-if="!$user.id"> -->
-        <v-btn v-if="!$user.id" text @click="openLogin = true">
-          Connexion
-        </v-btn>
-        <LoginDialog v-model="openLogin" />
-        <!-- </template> -->
-        <!-- <template v-if="$user.id"> -->
-        <v-btn v-if="$user.id" text @click="openDocs = true">
-          Mes documents
-        </v-btn>
-        <v-btn v-if="$user.id" text @click="$supabase.auth.signOut()">
-          Déconnexion
-        </v-btn>
-        <DocumentsDialog v-if="$user.id" v-model="openDocs" @created="navToProject" />
-        <!-- </template> -->
-      </client-only>
-    </v-app-bar>
+    <LayoutsAppBar />
     <v-main>
       <nuxt />
     </v-main>
@@ -80,18 +51,7 @@ import '@gouvfr/dsfr/dist/css/footer.css'
 import '@gouvfr/dsfr/dist/css/logo.css'
 
 export default {
-  data () {
-    return {
-      openLogin: false,
-      openDocs: false
-    }
-  },
-  methods: {
-    navToProject (project) {
-      this.openDocs = false
-      this.$router.push(`/projets/${project.id}`)
-    }
-  }
+
 }
 </script>
 

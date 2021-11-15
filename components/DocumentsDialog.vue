@@ -5,15 +5,19 @@
       <v-card-text>
         <v-tabs-items v-model="modalState">
           <v-tab-item id="list">
-            <v-list>
+            <v-list height="400px" class="overflow-auto">
               <v-list-item
                 v-for="project in projects"
                 :key="project.id"
-                :to="`/projets/${project.id}`"
+                :to="`/projets/${project.id}/content`"
                 nuxt
+                two-line
                 @click="$emit('input', false)"
               >
-                <v-list-item-title>{{ project.name }}</v-list-item-title>
+                <v-list-item-content>
+                  <v-list-item-title>{{ project.name }}</v-list-item-title>
+                  <v-list-item-subtitle>{{ project.docType }}</v-list-item-subtitle>
+                </v-list-item-content>
               </v-list-item>
             </v-list>
           </v-tab-item>
@@ -31,7 +35,8 @@
                 <VDocumentSelect v-model="projectData.docType" label="Type de document" />
               </v-col>
               <v-col cols="12">
-                <VRegionAutocomplete v-model="projectData.region" label="Votre region" return-iso />
+                <VTownAutocomplete v-model="selectedTown" />
+                <!-- <VRegionAutocomplete v-model="projectData.region" label="Votre region" return-iso /> -->
               </v-col>
             </v-row>
           </v-tab-item>
@@ -59,6 +64,8 @@
 </template>
 
 <script>
+import regions from '@/assets/data/Regions.json'
+
 export default {
   name: 'DocumentsDialog',
   props: {
@@ -75,11 +82,17 @@ export default {
         docType: '',
         region: ''
       },
+      selectedTown: {},
       projects: [],
       loading: false
     }
   },
   computed: {
+    selectedRegion () {
+      const region = regions.find(r => r.name === this.selectedTown.nom_region)
+
+      return region.iso
+    },
     dialog: {
       get () {
         return this.value || false
@@ -90,7 +103,7 @@ export default {
     }
   },
   async mounted () {
-    const { data: projects, error } = await this.$supabase.from('projects').select('id, name, created_at').eq('owner', this.$user.id)
+    const { data: projects, error } = await this.$supabase.from('projects').select('id, name, docType, created_at').eq('owner', this.$user.id)
 
     if (!error) {
       this.projects = projects
@@ -113,14 +126,17 @@ export default {
       const newProject = Object.assign({
         owner: this.$user.id,
         PAC
-      }, this.projectData)
+      }, this.projectData, {
+        region: this.selectedRegion
+      })
 
       const { data, error } = await this.$supabase.from('projects').insert([newProject])
 
       if (!error && data && data[0]) {
         const project = data[0]
         this.projects.push(project)
-        this.$emit('created', project)
+        this.dialog = false
+        this.$router.push(`/projets/${project.id}/content`)
       } else {
         // eslint-disable-next-line no-console
         console.log(error)
