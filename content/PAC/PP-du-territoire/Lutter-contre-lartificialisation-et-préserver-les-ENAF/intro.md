@@ -1,6 +1,6 @@
 ---
-titre: Réduire la consommation d’espace
-ordre: 1
+titre: Lutter contre l'artificialisation et preserver les ENAF
+ordre: 8
 ---
 
-### Réduire la consommation d’espace
+### Lutter contre l'artificialisation et preserver les ENAF

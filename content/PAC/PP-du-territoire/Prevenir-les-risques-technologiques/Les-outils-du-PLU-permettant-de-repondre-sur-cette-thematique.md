@@ -1,80 +1,85 @@
 ---
-titre: Les outils du PLU permettant de répondre sur cette thématique
-ordre: 5
+titre: Comment traiter cette thématique dans le PLU
+ordre: 3
 ---
 
-#### Les outils du PLU permettant de répondre sur cette thématique
+#### Comment traiter cette thématique dans le PLU
 
-**- Nuisances sonores**
+Les risques sont traités dans les différentes pièces composant le PLU :
 
-Le **diagnostic** doit :
-- identifier les contraintes réglementaires en matière de bruit, à prendre en compte obligatoirement (PEB, classement sonore des voies), et faire le bilan des études et cartes de bruit existantes (cf paragraphe précédent) ;
-- compléter ces éléments par une analyse plus poussée sur le territoire de la collectivité : inventaire des sources de bruit non répertoriées ci-dessus (autres infrastructures, activités ou loisirs bruyants...), inventaire des bâtiments ou secteurs sensibles au bruit (écoles, zones résidentielles, hôpitaux...) ;
-- si l’enjeu est important, proposer une cartographie des éléments ci-dessus permettant de mettre en évidence les points de conflit existants ou à prévoir.
+**Le rapport de présentation**
 
-Le travail sur **le PADD** doit s’appuyer sur les éléments issus du diagnostic pour présenter des orientations visant à éviter de créer de nouvelles nuisances sonores et à réduire les nuisances sonores existantes, qui se traduiront :
-- dans le choix de la localisation des nouvelles activités potentiellement bruyantes (à éloigner des secteurs sensibles au bruit), et inversement de l’implantation de nouveaux bâtiments ou secteurs sensibles au bruit ;
-- par des projets spécifiques visant à réduire les nuisances sonores (déviation, mur anti-bruit,...)
-- par des objectifs en termes de qualité urbaine des nouvelles constructions.
+Il expose les principales conclusions relatives au diagnostic du territoire et analyse l’état initial de l’environnement, notamment sous l’angle des risques naturels. Les études et évaluations complètes qui ont servi au diagnostic sont à placer en annexe du rapport de présentation.
 
-Les **orientations d’aménagement et de programmation (OAP)** permettent notamment de donner des orientations sur les formes urbaines : par exemple orientation des bâtiments, bâtiments formant un écran et protégeant les espaces situés à l’arrière... Elles s’imposent en termes de compatibilité (et non de conformité), il est donc important que soient également utilisés les outils réglementaires cités ci-dessous, qui leur sont complémentaires.
+Le rapport de présentation expose également les motifs de la délimitation des zones, des règles applicables et des orientations d'aménagement et de programmation au regard de ces mêmes risques naturels. La réforme1 du contenu des PLU renforce les exigences de justification des dispositions opposables aux tiers qui encadrent et limitent le droit de construire et d’aménager. Ainsi, le 2° l’article R 151-2 introduit explicitement l’obligation de démontrer la nécessité des règles édictées par le règlement au regard des objectifs du PADD. Le 4° de ce même article précise que le rapport doit comporter également la justification de la délimitation des zones. 
 
-Au **niveau du règlement (graphique et écrit)**, la définition des zones permet de préciser réglementairement les secteurs où sont interdits certaines sources de bruit ou certains bâtiments sensibles au bruit, afin de les éloigner les uns des autres.
-En outre, certains outils particuliers permettent d’affirmer la mise en place de zones ou projets particuliers, et notamment :
-- espaces boisés classés : rôle d’espace tampon, à condition qu’il y ait également un enjeu environnemental ;
-- articles R. 151-31 2° et R. 151-34 1° : permettent de définir des secteurs où les nécessités de la protection contre les nuisances justifient que soient interdites ou soumises à des conditions spéciales les constructions et installations.
-- article L. 151-41 3° : emplacements réservés aux espaces verts à créer ou à modifier
-- autres emplacements réservés (L. 151-41 1°) : peuvent être utilisés pour un projet (déviation, mur anti-bruit, etc) ou un espace tampon (parc,...)
-En ce qui concerne le règlement écrit, les articles concernant l’implantation, l’alignement et la hauteur des constructions permettent d’éloigner les nouveaux bâtiments d’une infrastructure bruyante, ou de prévoir des bâtiments « écran » entre une infrastructure bruyante et les zones situées à l’arrière qui resteront plus calmes.
+Ces justifications, regroupées dans le rapport, doivent s’appuyer sur les documents spécifiques aux risques naturels. Il convient ainsi de reprendre tous les éléments nécessaires dans ces documents permettant d’expliquer les choix retenus et les dispositions (interdictions ou conditions spéciales) découlant de leur prise en compte. Le rapport de présentation peut apporter aussi des éléments explicatifs et des précisions complémentaires sur les conditions spéciales prévues dans le règlement.
 
-Les **annexes**, qui conformément à l’article R. 151-53 du code de l’urbanisme, doivent indiquer « le périmètre des secteurs situés au voisinage des infrastructures de transports terrestres, dans lesquels des prescriptions d'isolement acoustique ont été édictées en application de l'article L. 571-10 du code de l'environnement » (classement sonore des infrastructures)
-Le document graphique du règlement peut également faire mention de ces secteurs, à titre informatif, afin de faciliter l’information des pétitionnaires.
+Les documents spécifiques aux risques ne valant pas SUP (projets de PPRN PAC, cartes d’aléas, AER, AZI, etc.) sont à placer en annexe du rapport de présentation comme étude à l’appui des justifications prévues dans le rapport. Le rapport de présentation et ses annexes ne sont pas directement opposables aux autorisations d’urbanisme, aucun élément qui s’y trouve ne doit créer une règle non prévue par le règlement du PLU.
 
-Pour plus de précisions techniques sur la prise en compte du bruit dans le PLU, consulter le guide « PLU et Bruit – la boîte à outils de l’aménageur », disponible sur le site du CEREMA.
-http://paysages-territoires-transitions.cerema.fr/guide-plu-bruit-a63.html
+**Le projet d’aménagement et de développement durables**
 
-**- Qualité de l'air**
+Le projet d’aménagement et de développement durables (PADD) définit les orientations générales des politiques d’aménagement, d'équipement et d’urbanisme en prenant en compte les risques naturels.
 
-En fonction des enjeux identifiés, l’amélioration de la qualité de l’air passe par :
-- la gestion des déplacements (diminution des obligations de déplacements, offre de transport collectif, développement des itinéraires de déplacements doux et mixité des fonctions, réduction de l’étalement urbain…) ;
-- la maîtrise des pollutions liées aux divers types de constructions et aux diverses activités
+**Les orientations d'aménagement et de programmation** 
 
-Le **rapport de présentation** comporte les éléments de diagnostic en s’appuyant notamment sur les données présentées ci-dessous et décrit les dispositions prises en matières de préservation ou amélioration de la qualité de l’air, notamment dans le volet déplacements et/ou environnement.
+Les orientations d'aménagement peuvent, en cohérence avec le PADD, préciser les conditions d'aménagement de certains secteurs ou quartiers appelés à connaître un développement significatif ou une restructuration particulière. 
 
-L’amélioration de la qualité de l’air peut faire l’objet d’une orientation spécifique dans le **projet d’aménagement et de développement durables** (PADD), notamment pour les communes situées en zones sensibles à la qualité de l’air, ou ayant des « points noirs de la qualité de l’air ».
+Elles doivent, en conséquence, prendre en compte les risques naturels.
 
+**Les documents graphiques du règlement du PLU**
 
-Les dispositions peuvent être retranscrites dans une **orientation d’aménagement et de programmation** (OAP) thématique faisant apparaître les dispositions prises pour améliorer la qualité de l’air et/ou l’exposition de la population à la pollution, et notamment les implantations préférentielles de bâtiments à proximité des axes polluants, les itinéraires doux, les itinéraires de transport collectif,  etc.
+Les articles R. 151-31 2° et R. 151-34 1° du code de l'urbanisme prévoient que les documents graphiques du règlement fassent apparaître, s'il y a lieu, **les secteurs où l'existence de risques naturels justifie que soient interdites [R. 151-31 2°](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031720583) ou soumises à des conditions spéciales [R. 151-34 1°](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031720577) les constructions et installations de toute nature, permanentes ou non, les plantations, dépôts, affouillements, forages et exhaussements des sols.**
 
-Le **règlement du PLU** peut :
-- préciser le tracé et les caractéristiques des sentiers piétonniers et itinéraires cyclables, les voies et espaces réservés au transport public (L.151-38)
-- fixer des emplacements réservés pour les infrastructures de déplacements (L.151-41 1°)
-- imposer dans les secteurs proches des transports collectifs une densité minimale (L. 151-26)
-- imposer aux constructions des performances environnementales renforcées (L. 151-21)
-- faire bénéficier d’une majoration du volume constructible les constructions faisant preuve d’exemplarité énergétique ou environnementale ou qui sont à énergie positive (art. R.151-42 du code de l’urbanisme) ;
+Les documents graphiques du règlement du PLU doivent donc concrètement cartographier les zones d’interdiction et les zones d’autorisation sous condition spéciales des projets du fait des risques naturels. Les zones identifiées doivent être délimitées et indicées de manière à retrouver les prescriptions associées dans le document écrit du règlement.
 
-Lorsque les cartographies de l’exposition de la population à la pollution mettent en évidence des **zones où les normes pour la santé sont dépassées, il est recommandé de prendre en compte cet aspect pour protéger les populations sensibles.** 
+La lisibilité et la clarté des documents graphiques sont un des objectifs principaux, afin de faciliter le travail des instructeurs et la compréhension des citoyens. Il ne doit y avoir aucune ambiguïté à la lecture du ou des plans, ni aucune contradiction entre le plan, la légende et les documents écrits. Pour cela, il est déconseillé de préciser le niveau d’aléas (C1,C2,C3,C4) en privilégiant l’affichage du zonage réglementaire (RC ou Bc).
 
-Cette mesure pourrait aller jusqu’à des mesures de type :
-- interdire l’implantation dans ces zones d’établissements sensibles, par application des dispositions de l’article R. 151-34 1° au titre de la prévention contre les nuisances ;
-- ne pas augmenter la population dans ces zones, avec par exemple un gel de l’urbanisation de ces zones par application des dispositions de l’article R. 151-31 1° au titre de la prévention contre les nuisances ;
-- imposer des règles d’urbanisme qui visent à limiter l’impact des pollutions sur les occupants (ne pas créer de « rues canyon », privilégier un urbanisme qui favorise la dispersion des polluants, etc).
+Les modalités d’intégration des documents d’affichage des risques dans le règlement graphique du PLU diffèrent en fonction de la nature du document d’affichage des risques  : 
 
-**- Prévention de la prolifération du moustique tigre**
+***- Cas où le document d’affichage des risques à intégrer dans le PLU est une SUP directement opposable (PPRN approuvés, PER, PSS, Arrêté R111-3, etc.)***
+      
+Il est recommandé de signaler, dans le règlement graphique du PLU, le territoire concerné par ce ou ces documents au moyen d'une trame unique (ou, si jugé plus pertinent, de plusieurs trames traduisant l'inconstructibilité sauf exceptions ou la constructibilité sous conditions spéciales). 
 
-Au niveau de la gestion des eaux pluviales (**règlement du PLU**): 
-- si le règlement du PLU impose une gestion des eaux pluviales à la parcelle ou au projet => pour des raisons sanitaires (nouveau R 151-49), interdire les dispositions avec stagnation d’eau à l’air libre (système étanche à privilégier ; éviter les noues et fossés humides).
-- si le PLU impose une gestion des eaux pluviales dans un exutoire (réseau ou naturel) => pour des raisons sanitaires (nouveau R 151-49), interdire également les dispositions de « raccordement » avec stagnation d’eau à l’air libre
+Les documents valant SUP sont ensuite à placer en annexe SUP du PLU, en complément de la liste et du plan transmis par le Préfet. (application de l'article R. 151-51 du code de l'urbanisme).
 
-Au niveau des pentes des toitures (**règlement du PLU**) :
-- si toiture-terrasse autorisée, faire une recommandation sur la bonne conception pour éviter la stagnation des eaux
-- éventuellement, pour des raisons d’hygiène et de protection contre les nuisances (nouveau R. 151-34 1°) imposer une légère pente ...
-- pour les toitures sur plots ou terrasse sur plots, imposer une légère pente aux supports soutenant les plots
+ ***- Cas où le document d’affichage des risques à intégrer dans le PLU n’est pas directement opposable***
 
-Au niveau des interdictions (**règlement du PLU**) : le PLU peut interdire les dépôts de matériaux ou déchets (qui pourraient être le lieu de stagnation d’eau) pour des raisons de salubrité (nouveau R. 151-30).
+Son contenu doit être intégré dans les documents graphiques du règlement du PLU par deux trames se superposant au zonage du PLU :
+- une trame exprimant l'inconstructibilité sauf exceptions (zones rouges) ;
+- une seconde trame exprimant la constructibilité avec conditions spéciales (zones bleues).
 
-Eventuellement au niveau des **OAP** :
-Bien que leur contenu soit «à géométrie variable», les OAP en définissant les conditions d’aménagement et d’équipement des zones peuvent conforter la prise en compte des eaux pluviales. Ainsi, les dispositifs pour une gestion collective des eaux pluviales peuvent être relativement définis dès l’élaboration du PLU en intégrant les éléments techniques (dimensionnement sommaire, localisation, etc.) dans les OAP. Des recommandations peuvent être faites au regard de l’enjeu sanitaire de lutte contre le « moustique-tigre ».
+Lorsque le document d’affichage des risques à utiliser dispose d’une carte de constructibilité – ou carte de zonages réglementaires – (c’est le cas des projets de PPRN PAC par exemple), ces éléments peuvent être intégrés directement dans le document graphique du PLU.
 
+Lorsque les documents disponibles ne fournissent que des niveaux d'aléas (cartes d’aléas, AER, AZI, etc.), un travail de traduction des niveaux d’aléas en niveaux de constructibilité est nécessaire. Les annexes du courrier Préfet du 13 mars 2018 proposent une méthode pour définir les zones rouges et bleues en croisant les niveaux d’aléas avec le caractère urbanisé ou non (au sens des risques) de la zone.
+**Il est important d’appliquer la bonne méthode de traduction en fonction de la méthodologie retenue pour élaborer la carte d’aléas (doctrine 2005 ou doctrine 2016).**
 
+Cette approche permet de se reporter à une logique identique à celle utilisée pour l'élaboration des PPRN.
 
+Lorsqu’il existe plusieurs types de phénomènes naturels dangereux sur une commune et qu'on ne
+peut pas renvoyer à un document valant SUP, il est recommandé d'indicer par type de risques les zones tramées. La superposition du fond de plan, des limites des zones réglementaires du PLU et de celles des zones de risques peut conduire à un résultat peu lisible. Il est alors recommandé de dissocier la représentation graphique du PLU en plusieurs plans : le premier avec le zonage PLU et les trames avec un renvoi au second, le second avec les limites et les indices des zones de risques. 
+Le détail de cette dissociation relève de la commune et de son bureau d’études, qui doivent garantir une lisibilité finale du (des) document(s) graphique(s).
+
+**Le règlement écrit**
+
+L'article L. 151-8 du code de l'urbanisme demande que le règlement fixe, en cohérence avec le projet d'aménagement et de développement durables, les règles générales et les servitudes d'utilisation des sols permettant d'atteindre les objectifs mentionnés aux articles L. 101-1 à 3, qui peuvent notamment comporter l'interdiction de construire.
+
+Le règlement doit édicter des conditions  spéciales au titre des risques, y compris sous forme d’objectifs de performance à atteindre.
+
+Les modalités d’intégration des documents d’affichage des risques dans le règlement écrit du PLU diffèrent en fonction de la nature du document d’affichage des risques  :
+
+***- Cas où le document d’affichage des risques à intégrer dans le PLU est une SUP directement opposable (PPRN approuvés, PER, PSS, Arrêté R111-3, etc.)***
+Le règlement écrit du PLU :
+  - doit rappeler que toutes les règles de ce document spécifique aux risques sont directement opposables aux demandes d’occupation et d’utilisation du sol ;
+  - doit renvoyer au règlement du document d’affichage des risques qui vaut SUP pour connaître les règles qu'il contient. Ces règles ne sont donc pas à réécrire dans le règlement écrit du PLU.
+
+***- Cas où le document d’affichage des risques à intégrer dans le PLU n’est pas directement opposable***
+
+Il est recommandé de faire une partie spécifique dans le règlement écrit relative à la prise en compte des risques naturels, sous réserve que dans les dispositions de chaque zone du PLU (U, AU, N et A), les risques présents dans la zone soient rappelés et qu’un renvoi soit fait à cette partie spécifique liées aux risques.
+
+Les règles résultant de la prise en compte des risques naturels doivent être écrites explicitement dans le règlement écrit du PLU. 
+L’annexe 1 du courrier du Préfet de l’Isère du 13 mars 2018 rappelle les documents de référence permettant d’avoir le détail des règles associées à ces documents d’affichage des risques ne valant pas SUP :
+  - règlement PPRN type communiqué le 30 juin 2017 pour les cartes d’aléas « méthodologie **2005** » ;
+  - règlement PPRN type communiqué le 13 mars 2018 pour les cartes d’aléas « méthodologie **2016** ».
+
+**Remarque importante :** les règlements PPRN types répondent à un autre cadre juridique que celui des PLU. En particulier, les demandes d’études ou d’attestations et les règles de construction ne peuvent pas être intégrés tel quel dans un règlement de PLU. Il appartient donc au maître d'ouvrage du PLU de retranscrire correctement dans le PLU les éléments du règlement type PPRN. En particulier, certaines règles peuvent être reformulées et intégrées dans le règlement écrit du PLU sous forme d’objectifs de performance à atteindre. Les précisions qui ne peuvent pas être mises directement dans le règlement du PLU doivent être mises dans le rapport de présentation du PLU (cf § rapport de présentation) en tant que justification, éléments complémentaires et/ou précisions sur les conditions spéciales.

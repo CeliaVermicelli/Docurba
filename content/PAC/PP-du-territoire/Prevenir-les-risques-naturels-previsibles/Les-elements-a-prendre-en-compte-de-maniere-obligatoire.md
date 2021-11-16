@@ -5,59 +5,56 @@ ordre: 1
 
 #### Les éléments à prendre en compte de manière obligatoire
 
-- Dossier départemental sur les risques majeurs (DDRM) approuvé par arrêté préfectoral du 21 septembre 2020 Ce document traite de tous les sous-thèmes abordés ci-dessous.
+**Documents valant servitude d'utilité publique**
 
-https://www.isere.gouv.fr/Politiques-publiques/Risques/Plans-Communaux-de-Sauvegarde-et-DDRM/Le-DDRM-2020-dossier-departemental-des-risques-majeurs-2020
+- Plan de prévention des risques naturels inondation (PPRI)  Isère amont approuvé par arrêté préfectoral du 30/07/2007
+- Plan de prévention des risques naturels multirisques (PPRN) approuvé par arrêté préfectoral du 03/12/2008. 
 
-- Les risques technologiques feront éventuellement l’objet d’un PAC complémentaire à partir des informations que nous transmettra la DREAL-UT38, en application de la circulaire du 4 mai 2007. D’ores et déjà, un PAC complémentaire est en cours de préparation concernant les prescriptions d’urbanisme à appliquer liées à la société ST Microelectronics suite à l’étude de dangers révisée remise en janvier 2020 et qui a fait l’objet d’un examen par l’inspection des installations classées (rapport du 20/07/2021). 
+**Eléments qui induisent des obligations pour le PLU**
 
-- **Risque industriel**
+- Cartographie établie sur le territoire à risque important d’inondation (TRI) Grenoble Voiron dans le cadre de la directive inondation approuvée par le Préfet du bassin Rhône Méditerranée le 20 décembre 2013. Cette cartographie représente les surfaces inondables par l’Isère et est consultable sur le portail du bassin :
+http://www.rhone-mediterranee.eaufrance.fr/gestion/inondations/cartes/grenoble.php
 
-Les installations classées pour la protection de l’environnement (ICPE) sont répertoriées sur le site internet suivant :
-https://www.georisques.gouv.fr/risques/installations/donnees#/region=84&departement=38
+Cette cartographie vous a été portée à connaissance par courrier du préfet de l'Isère le 28 juillet 2014. Les cartographies relatives aux crues fréquentes et exceptionnelles peuvent être utilisées pour les projets les plus sensibles (sans caractère obligatoire).
 
-- **Transports de matières dangereuses**
+- Bande de précaution des digues de l’Isère et des digues des cours d’eau non torrentiels en application du décret du 5 juillet 2019 relatif à l’élaboration des PPR concernant les aléas débordement de cours d’eau et submersion marine et de son arrêté d’application du 5 juillet 2019 (cf. § Etude à mener par la commune) : cette bande de précaution, qui doit rester inconstructible, correspond à la zone où, suite à une surverse, des brèches ou une rupture totale de l’ouvrage de protection, la population serait en danger du fait des hauteurs d’eau, des vitesses d’écoulement ou d’une érosion des sols.
 
-  - Canalisations\
-  \
-  Une canalisation de transport de matière dangereuse (GRTGaz ) traverse la commune et une autre l’impacte.\
-  \
-  L’arrêté préfectoral instaurant des servitudes d'utilité publique prenant en compte la maîtrise des risques autour des canalisations de transport de matières dangereuses a été pris. Il est en fin de liste des servitudes d'utilité publique.\
-  \
-  Vous trouverez également en annexe le courrier de GRTGaz
+- Carte N°8 « aléa » du plan départemental de protection des forêts contre l’incendie approuvé par arrêté préfectoral n° 2013-147-0018 du 27 mai 2013.
 
-  - Itinéraires routiers
-  
-se reporter au chapitre 5.5.3.(?)
+**Doctrine locale**
 
-- **Ruptures de barrages**
+La non prise en compte de points d’un PPRN (ou un document valant PPRN) approuvé dans le PLU doit faire l’objet d’un accord de l’État avant arrêt du PLU.
 
-Le territoire de la commune est concerné par l’onde de submersion définie dans le cadre du plan particulier d’intervention (PPI) des barrages de ROSELEND, TIGNES, BISSORTE, LA GIROTTE. Le calcul de cette onde a été établi à partir de données relatives aux vallées concernées et dans l’hypothèse d’une rupture totale et instantanée du barrage entraînant la rupture totale des barrages aval sous l’effet de l’onde. Les PPI ne concernent que les barrages de plus de 20 m de haut.
+**- Bandes de précaution à l’arrière des systèmes d’endiguement**
 
-- **Secteurs d'information sur les sols (SIS)**
+Cet article est sans objet pour les digues non mises en charge pour les crues de référence.
 
-L'article L.125-6 du code de l'environnement, introduit par la loi ALUR du 24/03/2014, stipule que "l'Etat élabore, au regard des informations dont il dispose, des secteurs d'information sur les sols (SIS) qui comprennent les terrains où la connaissance de la pollution des sols justifie, notamment en cas de changement d'usage, la réalisation d'études de sols et de mesures de gestion de la pollution pour préserver la sécurité, la santé ou la salubrité publiques et l'environnement". 
-**Les SIS sont une annexe obligatoire des PLU** (R 151-53 10° du code de l'urbanisme1) . 
-Dans ces secteurs, en application du R 431-16 °) du code de l’urbanisme, le maître d’ouvrage pétitionnaire d’une demande de permis de construire ou d’aménager doit produire auprès des services d’urbanisme de la collectivité une attestation garantissant la réalisation d’une étude des sols établissant les mesures de gestion de la pollution à mettre en œuvre pour assurer la compatibilité entre l’usage futur et l’état des sols. 
+- Éléments d’explications
 
-Les  sites  recensés font l'objet de fiches consultables sur internet à l'adresse suivante : 
-http://www.isere.gouv.fr/Politiques-publiques/Environnement/Secteurs-d-information-sur-les-sols-SIS-et-servitude-d-utilite-publique-SUP
+Différents retours d’expérience montrent que lorsqu’un système d’endiguement est mis en charge, sa probabilité de rupture, certes parfois faible, n’est toutefois jamais nulle. Quand ce type d’événement se produit, la lame d’eau, entraînant avec elle des matériaux solides, provoque alors des dégâts majeurs à l’arrière immédiat de l’ouvrage, que ce soit en raison de la violence directe des écoulements et transports solides ou par la création de fosses d’érosion, mettant ainsi fortement en danger la vie des populations et les biens présents.
 
-**Votre commune est concernée par 2  secteurs d’information sur les sols (SIS) :**
-38SIS1752_EUROMAG_Crolles_38-0112 
-38SIS1830-ONDEO NALCO-Crolles-38.0214 
+L’urbanisation doit être maîtrisée ou fortement adaptée dans ces zones du fait du danger particulièrement important qui s’y trouve. L’ensemble des digues, classées ou non, doit être pris en considération dans le PLU au titre des risques, notamment du fait de leur risque de rupture.
 
-- **Sites et sols pollués**
+Ce principe est rappelé par la jurisprudence (CE, 6 avril 2016, n° 38600 MEDDE, CAA de Marseille, 1er décembre 2015, n°13MA04807, commune de Tarascon).
 
-Pour les installations classées susceptibles de présenter une pollution des sols ou des eaux souterraines, la base de données « BASOL » recense l'ensemble des sites pollués ou potentiellement pollués appelant une action de l'administration.
-Cette base de données, comportant la description du site et détaillant pour chaque site les actions engagées par l’État, est accessible sur Internet à l'adresse suivante :
-http://basol.developpement-durable.gouv.fr/
+- Réglementation 
 
-**2  sites sont recensés**
+Si le document d'affichage du risque inondation opposable ne comprend pas de bande de précaution à l'arrière des digues, ou en l’absence d’un tel document, il est demandé d’appliquer dans les bandes de précaution le règlement de la zone RI, RC ou RT tel que défini dans les grilles de correspondance du Porter A Connaissance du 13 mars 2018.
 
-Par ailleurs, un inventaire régional historique des anciens sites industriels a été conduit et diffusé notamment aux collectivités locales en 1999. Pour leur grande majorité, ces sites n'ont pas encore conduit à une action de la part de l’administration. 
+Le règlement du PLU peut préciser que les dispositions relatives aux bandes de précaution s’appliquent jusqu’à l’annexion d’un PPR traitant cette question. Ainsi, les dispositions d’un tel PPR se substitueront aux règles du PLU correspondantes sans qu’il soit nécessaire de faire évoluer le PLU.
 
-**23  sites sont recensés** et font l'objet de fiches consultables sur internet à l'adresse suivante :
-http://basias.brgm.fr
+Il est rappelé que le rapport de présentation du PLU doit justifier l’ensemble des motifs de la délimitation des zones et des règles applicables (R151-2 du code de l’urbanisme), ce qui s’applique en particulier pour les bandes de précaution.
 
-Il convient d'être prudent concernant le réaménagement des terrains concernés qui ont pu accueillir des activités potentiellement polluantes. En fonction de l'état résiduel des terrains et travaux de réhabilitation effectués, l'aménagement de ces sites peut être soumis à des restrictions d'usage.
+- Largeur de la bande de précaution : il est demandé, sur la base des réflexions1 menées en MIRNAT38 (Mission Inter-services des Risques Naturels de l’Isère), d'appliquer :
+
+  - Pour les digues de l'Isère et les cours d’eau non torrentiels, une bande de précaution de largeur telle que définie à l'article R562-11-4 I : la largeur de la bande de précaution est égale à 100*H, H étant la hauteur de mise en charge de la digue, définie comme la différence d'altitude entre la cote de la ligne d'eau en lit mineur en crue de référence et le terrain naturel à l'arrière de l'ouvrage. Cette largeur peut être adaptée sur la base d'éléments techniques de l'ouvrage fournis par son propriétaire ou gestionnaire, elle ne peut toutefois pas être inférieure à la largeur définie par arrêté du ministre chargé de la prévention des risques majeurs (décret du 5 juillet 2019 et son arrêté du 5 juillet 2019).
+
+  - Pour les digues des cours d'eau torrentiels, dans l’attente du guide national "aléas torrentiels", il est demandé d’appliquer les principes suivants basés sur les réflexions2 menées en MIRNAT38 (Mission Inter-services des Risques Naturels de l’Isère), si le document d'affichage du risque inondation opposable ne comprend pas de bande de précaution à l'arrière des digues, ou en l’absence d’un tel document :
+    - pour les cours d'eau perchés : une bande de précaution de 50 mètres minimum de part et d'autre du cours d'eau avec recommandation forte de réaliser une étude hydraulique spécifique analysant les conséquences de rupture de la digue ;
+    - pour les cours d'eau non perchés : par défaut et pour toute digue dont la hauteur est supérieure à 0,5 m :
+      -  pour un débit supérieur à 100 m3/s pour la crue de référence : une bande de 50 m de part et d'autre du cours d'eau,
+      -  pour un débit compris entre 20 et 100 m3/s pour la crue de référence : une bande de 50 m de part et d'autre du cours d'eau pouvant être réduite jusqu'à 20 m si la hauteur de la digue est inférieure à 1,5 m et  si une étude hydraulique spécifique le justifie en analysant les conséquences d’une rupture de la digue,
+      -  pour un débit inférieur à 20 m3/s pour la crue de référence : une bande de 20 m de part et d'autre du cours d'eau.
+
+**Ces bandes de précaution sont à définir à partir du pied de digue côté lit majeur.**
+
