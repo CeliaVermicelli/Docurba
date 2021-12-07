@@ -1,9 +1,11 @@
 ---
 titre: L’évaluation environnementale
-ordre: 2
+ordre: 3
 ---
 
 ### L’évaluation environnementale
+
+
 
 L’évaluation environnementale est une démarche qui vise à intégrer le plus en amont possible les préoccupations environnementales dans l’élaboration des documents d’urbanismes, afin de favoriser le développement durable du territoire. L’évaluation environnementale du projet ne doit pas être faite a posteriori mais doit être intégrée dès les premières phases du projet. **C’est un réel outil d’aide à la décision et un processus continu qui doit être mené en parallèle de chaque étape de l’élaboration du document.**
 
