@@ -1,5 +1,5 @@
 ---
-question: "Est-ce qu’on peut imprimer le contenu de Docurba?"
+question: "Est-il possible d'avoir une version papier du projet créé sur Docurba?"
 visible: true
 ---
-Oui c’est possible d’enregistrer votre PAC au format PDF. Une iconne de téléchargement est présente dans le mode lecture d'un projet.
+Oui, vous avez la possibilité d'enregistrer le PAC créé au format PDF pour ensuite l'imprimer. L'icône de téléchargement est présent dans le mode lecture d'un projet.
